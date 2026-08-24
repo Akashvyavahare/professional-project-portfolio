@@ -20,6 +20,10 @@ This repository provides an overview of my professional project experience, tech
 
 NRTAIL is a **full-stack retail shop management platform** designed to support multiple shop categories and branches. The platform provides modules for retail operations, inventory-related activities, transactions, grading, master data, and reporting.
 
+### 🔗 Project Links
+
+- 🌐 **Live Production:** : (http://nrtailjs.nisanapps.com:3002/signin) *(Production environment is client-restricted and not publicly accessible)*
+
 ### 🛠️ Technology Stack
 
 * **Frontend:** Next.js, React.js
